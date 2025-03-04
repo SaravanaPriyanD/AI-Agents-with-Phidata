@@ -1,0 +1,17 @@
+
+python --version
+
+conda create -n agent-pd python=3.11 -y
+
+    conda activate agent-pd
+
+conda deactivate
+
+pip install -r requirements.txt
+
+Open jupyter notebook -- Change kernel on the right to agent-lg - run first cell (install ipykernel if required) 	
+
+import langchain
+langchain.__version__ 
+
+'0.3.19' (successful)
