@@ -1,4 +1,4 @@
-phidata 
+phidata
 python-dotenv
 yfinance
 packaging
@@ -8,3 +8,10 @@ openai
 python-multipart
 fastapi
 uvicorn
+phi-agent
+python-twitter
+newsapi-python
+ta-lib
+pandas
+matplotlib
+logging
